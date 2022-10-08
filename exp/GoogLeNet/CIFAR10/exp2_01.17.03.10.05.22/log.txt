@@ -1,0 +1,250 @@
+[Train] Epoch: [1/25], Step: [6336/50000 (13%)], Loss: [3.2252]
+[Train] Epoch: [1/25], Step: [12736/50000 (25%)], Loss: [3.0731]
+[Train] Epoch: [1/25], Step: [19136/50000 (38%)], Loss: [2.9619]
+[Train] Epoch: [1/25], Step: [25536/50000 (51%)], Loss: [2.6103]
+[Train] Epoch: [1/25], Step: [31936/50000 (64%)], Loss: [2.8054]
+[Train] Epoch: [1/25], Step: [38336/50000 (77%)], Loss: [3.0734]
+[Train] Epoch: [1/25], Step: [44736/50000 (89%)], Loss: [2.6874]
+
+[Test] Loss: [1.5847], Accuracy: [4252/10000 (43%)]
+
+[Train] Epoch: [2/25], Step: [6336/50000 (13%)], Loss: [2.1615]
+[Train] Epoch: [2/25], Step: [12736/50000 (25%)], Loss: [2.4376]
+[Train] Epoch: [2/25], Step: [19136/50000 (38%)], Loss: [2.0701]
+[Train] Epoch: [2/25], Step: [25536/50000 (51%)], Loss: [2.2280]
+[Train] Epoch: [2/25], Step: [31936/50000 (64%)], Loss: [2.0850]
+[Train] Epoch: [2/25], Step: [38336/50000 (77%)], Loss: [1.8403]
+[Train] Epoch: [2/25], Step: [44736/50000 (89%)], Loss: [2.1291]
+
+[Test] Loss: [1.3274], Accuracy: [5263/10000 (53%)]
+
+[Train] Epoch: [3/25], Step: [6336/50000 (13%)], Loss: [2.3026]
+[Train] Epoch: [3/25], Step: [12736/50000 (25%)], Loss: [2.2455]
+[Train] Epoch: [3/25], Step: [19136/50000 (38%)], Loss: [2.2568]
+[Train] Epoch: [3/25], Step: [25536/50000 (51%)], Loss: [1.6132]
+[Train] Epoch: [3/25], Step: [31936/50000 (64%)], Loss: [1.6558]
+[Train] Epoch: [3/25], Step: [38336/50000 (77%)], Loss: [2.0950]
+[Train] Epoch: [3/25], Step: [44736/50000 (89%)], Loss: [1.8499]
+
+[Test] Loss: [1.2153], Accuracy: [5785/10000 (58%)]
+
+[Train] Epoch: [4/25], Step: [6336/50000 (13%)], Loss: [1.8436]
+[Train] Epoch: [4/25], Step: [12736/50000 (25%)], Loss: [1.9621]
+[Train] Epoch: [4/25], Step: [19136/50000 (38%)], Loss: [1.9746]
+[Train] Epoch: [4/25], Step: [25536/50000 (51%)], Loss: [1.6247]
+[Train] Epoch: [4/25], Step: [31936/50000 (64%)], Loss: [1.6287]
+[Train] Epoch: [4/25], Step: [38336/50000 (77%)], Loss: [1.6952]
+[Train] Epoch: [4/25], Step: [44736/50000 (89%)], Loss: [1.6218]
+
+[Test] Loss: [1.0290], Accuracy: [6386/10000 (64%)]
+
+[Train] Epoch: [5/25], Step: [6336/50000 (13%)], Loss: [1.7576]
+[Train] Epoch: [5/25], Step: [12736/50000 (25%)], Loss: [1.3475]
+[Train] Epoch: [5/25], Step: [19136/50000 (38%)], Loss: [1.4591]
+[Train] Epoch: [5/25], Step: [25536/50000 (51%)], Loss: [1.6461]
+[Train] Epoch: [5/25], Step: [31936/50000 (64%)], Loss: [1.5498]
+[Train] Epoch: [5/25], Step: [38336/50000 (77%)], Loss: [1.5853]
+[Train] Epoch: [5/25], Step: [44736/50000 (89%)], Loss: [1.4358]
+
+[Test] Loss: [0.9684], Accuracy: [6684/10000 (67%)]
+
+[Train] Epoch: [6/25], Step: [6336/50000 (13%)], Loss: [1.4681]
+[Train] Epoch: [6/25], Step: [12736/50000 (25%)], Loss: [1.4732]
+[Train] Epoch: [6/25], Step: [19136/50000 (38%)], Loss: [1.6164]
+[Train] Epoch: [6/25], Step: [25536/50000 (51%)], Loss: [1.3568]
+[Train] Epoch: [6/25], Step: [31936/50000 (64%)], Loss: [1.6041]
+[Train] Epoch: [6/25], Step: [38336/50000 (77%)], Loss: [1.5400]
+[Train] Epoch: [6/25], Step: [44736/50000 (89%)], Loss: [1.4265]
+
+[Test] Loss: [0.9603], Accuracy: [6726/10000 (67%)]
+
+[Train] Epoch: [7/25], Step: [6336/50000 (13%)], Loss: [1.1762]
+[Train] Epoch: [7/25], Step: [12736/50000 (25%)], Loss: [1.3392]
+[Train] Epoch: [7/25], Step: [19136/50000 (38%)], Loss: [1.4169]
+[Train] Epoch: [7/25], Step: [25536/50000 (51%)], Loss: [1.4954]
+[Train] Epoch: [7/25], Step: [31936/50000 (64%)], Loss: [1.6089]
+[Train] Epoch: [7/25], Step: [38336/50000 (77%)], Loss: [1.5575]
+[Train] Epoch: [7/25], Step: [44736/50000 (89%)], Loss: [1.1385]
+
+[Test] Loss: [0.8713], Accuracy: [6957/10000 (70%)]
+
+[Train] Epoch: [8/25], Step: [6336/50000 (13%)], Loss: [1.2278]
+[Train] Epoch: [8/25], Step: [12736/50000 (25%)], Loss: [1.1195]
+[Train] Epoch: [8/25], Step: [19136/50000 (38%)], Loss: [1.4334]
+[Train] Epoch: [8/25], Step: [25536/50000 (51%)], Loss: [1.2687]
+[Train] Epoch: [8/25], Step: [31936/50000 (64%)], Loss: [1.1888]
+[Train] Epoch: [8/25], Step: [38336/50000 (77%)], Loss: [1.3503]
+[Train] Epoch: [8/25], Step: [44736/50000 (89%)], Loss: [1.3350]
+
+[Test] Loss: [0.8281], Accuracy: [7178/10000 (72%)]
+
+[Train] Epoch: [9/25], Step: [6336/50000 (13%)], Loss: [1.1427]
+[Train] Epoch: [9/25], Step: [12736/50000 (25%)], Loss: [1.6563]
+[Train] Epoch: [9/25], Step: [19136/50000 (38%)], Loss: [1.3343]
+[Train] Epoch: [9/25], Step: [25536/50000 (51%)], Loss: [1.5297]
+[Train] Epoch: [9/25], Step: [31936/50000 (64%)], Loss: [1.3171]
+[Train] Epoch: [9/25], Step: [38336/50000 (77%)], Loss: [1.0137]
+[Train] Epoch: [9/25], Step: [44736/50000 (89%)], Loss: [0.9134]
+
+[Test] Loss: [0.7499], Accuracy: [7359/10000 (74%)]
+
+[Train] Epoch: [10/25], Step: [6336/50000 (13%)], Loss: [0.9424]
+[Train] Epoch: [10/25], Step: [12736/50000 (25%)], Loss: [1.8821]
+[Train] Epoch: [10/25], Step: [19136/50000 (38%)], Loss: [1.2612]
+[Train] Epoch: [10/25], Step: [25536/50000 (51%)], Loss: [1.2011]
+[Train] Epoch: [10/25], Step: [31936/50000 (64%)], Loss: [1.1401]
+[Train] Epoch: [10/25], Step: [38336/50000 (77%)], Loss: [1.2076]
+[Train] Epoch: [10/25], Step: [44736/50000 (89%)], Loss: [1.0995]
+
+[Test] Loss: [0.7848], Accuracy: [7318/10000 (73%)]
+
+[Train] Epoch: [11/25], Step: [6336/50000 (13%)], Loss: [1.1050]
+[Train] Epoch: [11/25], Step: [12736/50000 (25%)], Loss: [1.2000]
+[Train] Epoch: [11/25], Step: [19136/50000 (38%)], Loss: [1.3297]
+[Train] Epoch: [11/25], Step: [25536/50000 (51%)], Loss: [0.9009]
+[Train] Epoch: [11/25], Step: [31936/50000 (64%)], Loss: [0.9673]
+[Train] Epoch: [11/25], Step: [38336/50000 (77%)], Loss: [1.1306]
+[Train] Epoch: [11/25], Step: [44736/50000 (89%)], Loss: [1.4792]
+
+[Test] Loss: [0.7690], Accuracy: [7355/10000 (74%)]
+
+[Train] Epoch: [12/25], Step: [6336/50000 (13%)], Loss: [1.2732]
+[Train] Epoch: [12/25], Step: [12736/50000 (25%)], Loss: [1.0545]
+[Train] Epoch: [12/25], Step: [19136/50000 (38%)], Loss: [1.0478]
+[Train] Epoch: [12/25], Step: [25536/50000 (51%)], Loss: [0.9974]
+[Train] Epoch: [12/25], Step: [31936/50000 (64%)], Loss: [1.3115]
+[Train] Epoch: [12/25], Step: [38336/50000 (77%)], Loss: [0.8014]
+[Train] Epoch: [12/25], Step: [44736/50000 (89%)], Loss: [0.7288]
+
+[Test] Loss: [0.6944], Accuracy: [7603/10000 (76%)]
+
+[Train] Epoch: [13/25], Step: [6336/50000 (13%)], Loss: [0.9717]
+[Train] Epoch: [13/25], Step: [12736/50000 (25%)], Loss: [1.0999]
+[Train] Epoch: [13/25], Step: [19136/50000 (38%)], Loss: [0.9456]
+[Train] Epoch: [13/25], Step: [25536/50000 (51%)], Loss: [1.1584]
+[Train] Epoch: [13/25], Step: [31936/50000 (64%)], Loss: [1.4059]
+[Train] Epoch: [13/25], Step: [38336/50000 (77%)], Loss: [1.2604]
+[Train] Epoch: [13/25], Step: [44736/50000 (89%)], Loss: [1.0314]
+
+[Test] Loss: [0.6636], Accuracy: [7717/10000 (77%)]
+
+[Train] Epoch: [14/25], Step: [6336/50000 (13%)], Loss: [1.2038]
+[Train] Epoch: [14/25], Step: [12736/50000 (25%)], Loss: [1.0472]
+[Train] Epoch: [14/25], Step: [19136/50000 (38%)], Loss: [0.6395]
+[Train] Epoch: [14/25], Step: [25536/50000 (51%)], Loss: [1.3032]
+[Train] Epoch: [14/25], Step: [31936/50000 (64%)], Loss: [1.1069]
+[Train] Epoch: [14/25], Step: [38336/50000 (77%)], Loss: [1.2949]
+[Train] Epoch: [14/25], Step: [44736/50000 (89%)], Loss: [1.6626]
+
+[Test] Loss: [0.6765], Accuracy: [7643/10000 (76%)]
+
+[Train] Epoch: [15/25], Step: [6336/50000 (13%)], Loss: [1.2505]
+[Train] Epoch: [15/25], Step: [12736/50000 (25%)], Loss: [0.9993]
+[Train] Epoch: [15/25], Step: [19136/50000 (38%)], Loss: [0.8374]
+[Train] Epoch: [15/25], Step: [25536/50000 (51%)], Loss: [0.9083]
+[Train] Epoch: [15/25], Step: [31936/50000 (64%)], Loss: [1.1525]
+[Train] Epoch: [15/25], Step: [38336/50000 (77%)], Loss: [1.1913]
+[Train] Epoch: [15/25], Step: [44736/50000 (89%)], Loss: [1.5357]
+
+[Test] Loss: [0.6747], Accuracy: [7694/10000 (77%)]
+
+[Train] Epoch: [16/25], Step: [6336/50000 (13%)], Loss: [1.1803]
+[Train] Epoch: [16/25], Step: [12736/50000 (25%)], Loss: [1.2915]
+[Train] Epoch: [16/25], Step: [19136/50000 (38%)], Loss: [0.6419]
+[Train] Epoch: [16/25], Step: [25536/50000 (51%)], Loss: [1.1312]
+[Train] Epoch: [16/25], Step: [31936/50000 (64%)], Loss: [0.9849]
+[Train] Epoch: [16/25], Step: [38336/50000 (77%)], Loss: [1.1032]
+[Train] Epoch: [16/25], Step: [44736/50000 (89%)], Loss: [1.1782]
+
+[Test] Loss: [0.6439], Accuracy: [7771/10000 (78%)]
+
+[Train] Epoch: [17/25], Step: [6336/50000 (13%)], Loss: [0.8172]
+[Train] Epoch: [17/25], Step: [12736/50000 (25%)], Loss: [1.1075]
+[Train] Epoch: [17/25], Step: [19136/50000 (38%)], Loss: [0.9018]
+[Train] Epoch: [17/25], Step: [25536/50000 (51%)], Loss: [1.0284]
+[Train] Epoch: [17/25], Step: [31936/50000 (64%)], Loss: [0.9095]
+[Train] Epoch: [17/25], Step: [38336/50000 (77%)], Loss: [0.9592]
+[Train] Epoch: [17/25], Step: [44736/50000 (89%)], Loss: [0.9947]
+
+[Test] Loss: [0.6174], Accuracy: [7851/10000 (79%)]
+
+[Train] Epoch: [18/25], Step: [6336/50000 (13%)], Loss: [1.0723]
+[Train] Epoch: [18/25], Step: [12736/50000 (25%)], Loss: [0.7502]
+[Train] Epoch: [18/25], Step: [19136/50000 (38%)], Loss: [0.7809]
+[Train] Epoch: [18/25], Step: [25536/50000 (51%)], Loss: [0.5441]
+[Train] Epoch: [18/25], Step: [31936/50000 (64%)], Loss: [0.9357]
+[Train] Epoch: [18/25], Step: [38336/50000 (77%)], Loss: [0.9162]
+[Train] Epoch: [18/25], Step: [44736/50000 (89%)], Loss: [1.0560]
+
+[Test] Loss: [0.6323], Accuracy: [7815/10000 (78%)]
+
+[Train] Epoch: [19/25], Step: [6336/50000 (13%)], Loss: [0.9786]
+[Train] Epoch: [19/25], Step: [12736/50000 (25%)], Loss: [1.0266]
+[Train] Epoch: [19/25], Step: [19136/50000 (38%)], Loss: [0.9199]
+[Train] Epoch: [19/25], Step: [25536/50000 (51%)], Loss: [1.0356]
+[Train] Epoch: [19/25], Step: [31936/50000 (64%)], Loss: [0.9958]
+[Train] Epoch: [19/25], Step: [38336/50000 (77%)], Loss: [1.2213]
+[Train] Epoch: [19/25], Step: [44736/50000 (89%)], Loss: [0.6931]
+
+[Test] Loss: [0.6187], Accuracy: [7867/10000 (79%)]
+
+[Train] Epoch: [20/25], Step: [6336/50000 (13%)], Loss: [1.0570]
+[Train] Epoch: [20/25], Step: [12736/50000 (25%)], Loss: [0.6624]
+[Train] Epoch: [20/25], Step: [19136/50000 (38%)], Loss: [0.8937]
+[Train] Epoch: [20/25], Step: [25536/50000 (51%)], Loss: [1.2598]
+[Train] Epoch: [20/25], Step: [31936/50000 (64%)], Loss: [1.0437]
+[Train] Epoch: [20/25], Step: [38336/50000 (77%)], Loss: [0.8250]
+[Train] Epoch: [20/25], Step: [44736/50000 (89%)], Loss: [0.8614]
+
+[Test] Loss: [0.6158], Accuracy: [7919/10000 (79%)]
+
+[Train] Epoch: [21/25], Step: [6336/50000 (13%)], Loss: [0.9561]
+[Train] Epoch: [21/25], Step: [12736/50000 (25%)], Loss: [1.2467]
+[Train] Epoch: [21/25], Step: [19136/50000 (38%)], Loss: [0.7656]
+[Train] Epoch: [21/25], Step: [25536/50000 (51%)], Loss: [1.0547]
+[Train] Epoch: [21/25], Step: [31936/50000 (64%)], Loss: [0.8831]
+[Train] Epoch: [21/25], Step: [38336/50000 (77%)], Loss: [0.9990]
+[Train] Epoch: [21/25], Step: [44736/50000 (89%)], Loss: [0.8811]
+
+[Test] Loss: [0.6532], Accuracy: [7776/10000 (78%)]
+
+[Train] Epoch: [22/25], Step: [6336/50000 (13%)], Loss: [0.6476]
+[Train] Epoch: [22/25], Step: [12736/50000 (25%)], Loss: [0.8135]
+[Train] Epoch: [22/25], Step: [19136/50000 (38%)], Loss: [1.2102]
+[Train] Epoch: [22/25], Step: [25536/50000 (51%)], Loss: [0.9490]
+[Train] Epoch: [22/25], Step: [31936/50000 (64%)], Loss: [0.6731]
+[Train] Epoch: [22/25], Step: [38336/50000 (77%)], Loss: [0.8699]
+[Train] Epoch: [22/25], Step: [44736/50000 (89%)], Loss: [0.6295]
+
+[Test] Loss: [0.5993], Accuracy: [7941/10000 (79%)]
+
+[Train] Epoch: [23/25], Step: [6336/50000 (13%)], Loss: [0.8980]
+[Train] Epoch: [23/25], Step: [12736/50000 (25%)], Loss: [0.6862]
+[Train] Epoch: [23/25], Step: [19136/50000 (38%)], Loss: [0.7316]
+[Train] Epoch: [23/25], Step: [25536/50000 (51%)], Loss: [1.1488]
+[Train] Epoch: [23/25], Step: [31936/50000 (64%)], Loss: [0.8384]
+[Train] Epoch: [23/25], Step: [38336/50000 (77%)], Loss: [1.0266]
+[Train] Epoch: [23/25], Step: [44736/50000 (89%)], Loss: [0.6589]
+
+[Test] Loss: [0.5790], Accuracy: [8015/10000 (80%)]
+
+[Train] Epoch: [24/25], Step: [6336/50000 (13%)], Loss: [1.4947]
+[Train] Epoch: [24/25], Step: [12736/50000 (25%)], Loss: [0.5319]
+[Train] Epoch: [24/25], Step: [19136/50000 (38%)], Loss: [0.7905]
+[Train] Epoch: [24/25], Step: [25536/50000 (51%)], Loss: [0.8742]
+[Train] Epoch: [24/25], Step: [31936/50000 (64%)], Loss: [0.9639]
+[Train] Epoch: [24/25], Step: [38336/50000 (77%)], Loss: [0.9740]
+[Train] Epoch: [24/25], Step: [44736/50000 (89%)], Loss: [0.7786]
+
+[Test] Loss: [0.6176], Accuracy: [7922/10000 (79%)]
+
+[Train] Epoch: [25/25], Step: [6336/50000 (13%)], Loss: [0.6577]
+[Train] Epoch: [25/25], Step: [12736/50000 (25%)], Loss: [0.8208]
+[Train] Epoch: [25/25], Step: [19136/50000 (38%)], Loss: [0.7486]
+[Train] Epoch: [25/25], Step: [25536/50000 (51%)], Loss: [1.0323]
+[Train] Epoch: [25/25], Step: [31936/50000 (64%)], Loss: [0.9272]
+[Train] Epoch: [25/25], Step: [38336/50000 (77%)], Loss: [0.6476]
+[Train] Epoch: [25/25], Step: [44736/50000 (89%)], Loss: [0.8510]
+
+[Test] Loss: [0.5782], Accuracy: [8028/10000 (80%)]
+
