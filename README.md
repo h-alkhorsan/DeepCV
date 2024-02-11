@@ -1,1 +1,1 @@
-# DeepNetworks
+# deep-networks
